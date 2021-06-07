@@ -5,6 +5,7 @@ I wanted to do something similar to a turn-based RPG game where the enemies are 
 Attacks are random and the type of enemy encountered is random. The more wins, the higher chances of getting a difficult enemy
 Hero can use items to heal their health and have a chance of finding them and will heal the player at a random amount between 25 and 100
 I just want a game full of luck :)
+Youtube Video: https://www.youtube.com/watch?v=07199adyUic
 
 
 """
